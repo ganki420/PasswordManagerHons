@@ -1,0 +1,1 @@
+run backup_key.py, encryption.py, and database.py then make an account and a password and run database check.py
